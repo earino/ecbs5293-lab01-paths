@@ -1,0 +1,9 @@
+[project]
+name = "ecbs5293-lab01-paths"
+version = "0.1.0"
+description = "ECBS5293 lab 1: the missing file that is not missing"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "jupyterlab",
+]
